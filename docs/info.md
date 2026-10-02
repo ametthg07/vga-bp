@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+We have a logo and two colors, we have a lot of pixels that changes if we have 0 or 1, black if its 0 and white if its 1
 
 ## How to test
 
-Explain how to use your project
+We have the pixels, if you want to change the color, just change 0 to 1 and viceversa and you will see the changes
 
 ## External hardware
 
