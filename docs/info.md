@@ -17,4 +17,3 @@ We have the pixels, if you want to change the color, just change 0 to 1 and vice
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
